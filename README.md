@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300&section=header&text=Hyunnique&fontSize=60&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300&section=header&text=Hyunnique&fontSize=60&animation=twinkling" />
+</p>
 
 <h3 align="center">Skills</h3>
 <p align="center"> <!-- FE -->
@@ -21,15 +23,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=Gerrit&logoColor=black" />
 </p>
+<br />
 
 <h3 align="center">Studying</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
 </p>
-
-<br />
-<br />
 <br />
 
 <h3 align="center">Cards</h3>
